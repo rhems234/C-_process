@@ -27,7 +27,7 @@
     <ClCompile Include="skeleton.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Gorem.cpp">
+    <ClCompile Include="Golem.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
@@ -41,7 +41,7 @@
     <ClInclude Include="skeleton.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="Gorem.h">
+    <ClInclude Include="Golem.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>

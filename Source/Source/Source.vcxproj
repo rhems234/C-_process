@@ -124,14 +124,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Gorem.cpp" />
+    <ClCompile Include="Golem.cpp" />
     <ClCompile Include="Monster.cpp" />
     <ClCompile Include="Program.cpp" />
     <ClCompile Include="skeleton.cpp" />
     <ClCompile Include="Slime.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Gorem.h" />
+    <ClInclude Include="Golem.h" />
     <ClInclude Include="Monster.h" />
     <ClInclude Include="skeleton.h" />
     <ClInclude Include="Slime.h" />
