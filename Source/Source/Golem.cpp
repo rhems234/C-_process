@@ -1,4 +1,5 @@
 #include "Golem.h"
+#include "stdafx.h"
 
 Golem::Golem() {
 	name = "Golem";
@@ -9,4 +10,9 @@ Golem::Golem() {
 
 void Golem::Describe() {
 	cout << "돌이나 금속으로 만들어진 몬스터로 초보 모험가들에게 위협적인 존재입니다. \n" << endl;
+}
+
+Golem::~Golem()
+{
+	cout << "Destroy Golem" << endl;
 }

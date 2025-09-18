@@ -5,6 +5,8 @@ class skeleton : public Monster
 public:
 	skeleton();
 
-	void Describe();
+	virtual void Describe() override;
+
+	virtual ~skeleton();
 };
 

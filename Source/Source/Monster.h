@@ -16,5 +16,7 @@ protected:
 public:
 	void Stat();
 	virtual void Describe();
+
+	virtual ~Monster();
 };
 
