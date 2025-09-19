@@ -6,5 +6,7 @@ protected:
 
 public:
 	virtual void Interact() = 0;
+	Furniture();
+	virtual ~Furniture();
 };
 
