@@ -126,7 +126,7 @@
     <ClCompile Include="..\Source\Cabinet.cpp" />
     <ClCompile Include="..\Source\Furniture.cpp" />
     <ClCompile Include="..\Source\Wardobe.cpp" />
-    <ClCompile Include="Class 6th(Abstract).cpp" />
+    <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\Source\Cabinet.h" />
