@@ -5,14 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{77CB01BE-F8C1-44E4-B6A8-FB4BE57B484F}|Source\\Source.vcxproj|C:\\Users\\user\\Desktop\\C-_process\\Source\\Source\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{77CB01BE-F8C1-44E4-B6A8-FB4BE57B484F}|Source\\Source.vcxproj|solutionrelative:Source\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77CB01BE-F8C1-44E4-B6A8-FB4BE57B484F}|Source\\Source.vcxproj|C:\\Users\\user\\Desktop\\C-_process\\Source\\Source\\Language.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{77CB01BE-F8C1-44E4-B6A8-FB4BE57B484F}|Source\\Source.vcxproj|solutionrelative:Source\\Language.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77CB01BE-F8C1-44E4-B6A8-FB4BE57B484F}|Source\\Source.vcxproj|C:\\Users\\user\\Desktop\\C-_process\\Source\\Source\\Language.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{77CB01BE-F8C1-44E4-B6A8-FB4BE57B484F}|Source\\Source.vcxproj|solutionrelative:Source\\Language.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,34 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Language.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C-_process\\Source\\Source\\Language.cpp",
-              "RelativeDocumentMoniker": "Source\\Language.cpp",
-              "ToolTip": "C:\\Users\\user\\Desktop\\C-_process\\Source\\Source\\Language.cpp",
-              "RelativeToolTip": "Source\\Language.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-23T09:07:40.666Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Language.h",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C-_process\\Source\\Source\\Language.h",
-              "RelativeDocumentMoniker": "Source\\Language.h",
-              "ToolTip": "C:\\Users\\user\\Desktop\\C-_process\\Source\\Source\\Language.h",
-              "RelativeToolTip": "Source\\Language.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-23T09:07:17.057Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -58,7 +24,7 @@
               "RelativeDocumentMoniker": "Source\\Program.cpp",
               "ToolTip": "C:\\Users\\user\\Desktop\\C-_process\\Source\\Source\\Program.cpp",
               "RelativeToolTip": "Source\\Program.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-22T09:46:38.101Z",
               "EditorCaption": ""

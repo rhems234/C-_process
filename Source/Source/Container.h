@@ -4,29 +4,18 @@ class Container
 {
 private:
 	int index;
-	T* arr;
+	int size;
+	T* list;
 
 public:
-	Container() = default;
+	Container(unsigned int allocateSize);
 
-	~Container() = default;
-
-	Container(int size);
+	~Container();
 
 	void Push(T data);
 
+	const int& Index();
+
+	const T& operator[] (const int index);
+
 };
-
-template<typename T>
-inline Container<T>::Container(int size)
-{
-	if (size <= 0 ) {
-		cout << "Index out of range" << endl;
-	}
-}
-
-template<typename T>
-inline void Container<T>::Push(T data)
-{
-	arr[index] = data;
-}

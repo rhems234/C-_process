@@ -5,15 +5,17 @@ VisualStudioVersion = 17.14.36301.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Program", "Source\Source.vcxproj", "{77CB01BE-F8C1-44E4-B6A8-FB4BE57B484F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class 3th(Constructor & Destrucotor)", "Class 3th(Constructor & Destrucotor)\Class 3th(Constructor & Destrucotor).vcxproj", "{F4BF3C4C-6F00-4FB5-9870-6FCD9318F70E}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class 3th (Constructor & Destrucotor)", "Class 3th(Constructor & Destrucotor)\Class 3th(Constructor & Destrucotor).vcxproj", "{F4BF3C4C-6F00-4FB5-9870-6FCD9318F70E}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class 4th(inheritance)", "Class 4th(inheritance)\Class 4th(inheritance).vcxproj", "{058588DE-3EA6-4BE3-8EDC-910DE2CA44D0}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class 4th (inheritance)", "Class 4th(inheritance)\Class 4th(inheritance).vcxproj", "{058588DE-3EA6-4BE3-8EDC-910DE2CA44D0}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class 5th (Polymorphism)", "Class5th (Polymorphism)\Class5th (Polymorphism).vcxproj", "{68BE8894-73A7-49E3-A34E-CB1A4DAF11FB}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class 6th(Abstract)", "Class 6th(Abstract)\Class 6th(Abstract).vcxproj", "{B01452C6-E1A0-460C-8028-97AEDA094696}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class 6th (Abstract)", "Class 6th(Abstract)\Class 6th(Abstract).vcxproj", "{B01452C6-E1A0-460C-8028-97AEDA094696}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class7th (Encapsulation)", "Class7th (Encapsulation)\Class7th (Encapsulation).vcxproj", "{91F93103-D9D0-425A-B261-637348EBC386}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class 7th (Encapsulation)", "Class7th (Encapsulation)\Class7th (Encapsulation).vcxproj", "{91F93103-D9D0-425A-B261-637348EBC386}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class 8th (Template)", "Class 8th (Template)\Class 8th (Template).vcxproj", "{EB8A5F51-63DF-4B36-91DC-2DE083B0C607}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -71,6 +73,14 @@ Global
 		{91F93103-D9D0-425A-B261-637348EBC386}.Release|x64.Build.0 = Release|x64
 		{91F93103-D9D0-425A-B261-637348EBC386}.Release|x86.ActiveCfg = Release|Win32
 		{91F93103-D9D0-425A-B261-637348EBC386}.Release|x86.Build.0 = Release|Win32
+		{EB8A5F51-63DF-4B36-91DC-2DE083B0C607}.Debug|x64.ActiveCfg = Debug|x64
+		{EB8A5F51-63DF-4B36-91DC-2DE083B0C607}.Debug|x64.Build.0 = Debug|x64
+		{EB8A5F51-63DF-4B36-91DC-2DE083B0C607}.Debug|x86.ActiveCfg = Debug|Win32
+		{EB8A5F51-63DF-4B36-91DC-2DE083B0C607}.Debug|x86.Build.0 = Debug|Win32
+		{EB8A5F51-63DF-4B36-91DC-2DE083B0C607}.Release|x64.ActiveCfg = Release|x64
+		{EB8A5F51-63DF-4B36-91DC-2DE083B0C607}.Release|x64.Build.0 = Release|x64
+		{EB8A5F51-63DF-4B36-91DC-2DE083B0C607}.Release|x86.ActiveCfg = Release|Win32
+		{EB8A5F51-63DF-4B36-91DC-2DE083B0C607}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
