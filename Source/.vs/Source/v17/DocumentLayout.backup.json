@@ -5,6 +5,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{77CB01BE-F8C1-44E4-B6A8-FB4BE57B484F}|Source\\Source.vcxproj|C:\\Users\\user\\Desktop\\C-_process\\Source\\Source\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{77CB01BE-F8C1-44E4-B6A8-FB4BE57B484F}|Source\\Source.vcxproj|solutionrelative:Source\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77CB01BE-F8C1-44E4-B6A8-FB4BE57B484F}|Source\\Source.vcxproj|C:\\Users\\user\\Desktop\\C-_process\\Source\\Source\\Resource.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{77CB01BE-F8C1-44E4-B6A8-FB4BE57B484F}|Source\\Source.vcxproj|solutionrelative:Source\\Resource.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77CB01BE-F8C1-44E4-B6A8-FB4BE57B484F}|Source\\Source.vcxproj|C:\\Users\\user\\Desktop\\C-_process\\Source\\Source\\Material.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{77CB01BE-F8C1-44E4-B6A8-FB4BE57B484F}|Source\\Source.vcxproj|solutionrelative:Source\\Material.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77CB01BE-F8C1-44E4-B6A8-FB4BE57B484F}|Source\\Source.vcxproj|C:\\Users\\user\\Desktop\\C-_process\\Source\\Source\\Resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{77CB01BE-F8C1-44E4-B6A8-FB4BE57B484F}|Source\\Source.vcxproj|solutionrelative:Source\\Resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77CB01BE-F8C1-44E4-B6A8-FB4BE57B484F}|Source\\Source.vcxproj|C:\\Users\\user\\Desktop\\C-_process\\Source\\Source\\Material.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{77CB01BE-F8C1-44E4-B6A8-FB4BE57B484F}|Source\\Source.vcxproj|solutionrelative:Source\\Material.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +30,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Resource.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C-_process\\Source\\Source\\Resource.cpp",
+              "RelativeDocumentMoniker": "Source\\Resource.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C-_process\\Source\\Source\\Resource.cpp",
+              "RelativeToolTip": "Source\\Resource.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-25T10:10:18.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Resource.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C-_process\\Source\\Source\\Resource.h",
+              "RelativeDocumentMoniker": "Source\\Resource.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C-_process\\Source\\Source\\Resource.h",
+              "RelativeToolTip": "Source\\Resource.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-25T10:09:35.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Material.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C-_process\\Source\\Source\\Material.cpp",
+              "RelativeDocumentMoniker": "Source\\Material.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C-_process\\Source\\Source\\Material.cpp",
+              "RelativeToolTip": "Source\\Material.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-25T09:15:12.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Material.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C-_process\\Source\\Source\\Material.h",
+              "RelativeDocumentMoniker": "Source\\Material.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C-_process\\Source\\Source\\Material.h",
+              "RelativeToolTip": "Source\\Material.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-25T09:14:22.033Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +92,7 @@
               "RelativeDocumentMoniker": "Source\\Program.cpp",
               "ToolTip": "C:\\Users\\user\\Desktop\\C-_process\\Source\\Source\\Program.cpp",
               "RelativeToolTip": "Source\\Program.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwB4AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-22T09:46:38.101Z",
               "EditorCaption": ""
