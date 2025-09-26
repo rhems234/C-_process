@@ -4,12 +4,13 @@ class Resource
 {
 
 private:
+	shared_ptr<Resource> resource;
 
 public:
 	Resource();
 
 	~Resource();
 
-	void Share(shared_ptr<Resource> resource);
+	void Share(shared_ptr<Resource> & reference);
 };
 

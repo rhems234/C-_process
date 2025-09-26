@@ -11,9 +11,7 @@ Resource::~Resource()
 	cout << "Destory Resource" << endl;
 }
 
-void Resource::Share(shared_ptr<Resource> resource)
+void Resource::Share(shared_ptr<Resource> & reference)
 {
-	shared_ptr<Resource> sprite = resource;
-
-	cout << "Count : " << sprite << endl;
+	this->resource = reference;
 }

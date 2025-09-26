@@ -125,14 +125,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Material.cpp" />
-    <ClCompile Include="Program.cpp" />
-    <ClCompile Include="Resource.cpp" />
+    <ClInclude Include="stdafx.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Material.h" />
-    <ClInclude Include="Resource.h" />
-    <ClInclude Include="stdafx.h" />
+    <ClCompile Include="Program.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
