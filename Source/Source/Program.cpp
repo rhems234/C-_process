@@ -1,63 +1,52 @@
 ﻿#include "stdafx.h"
-#include <vector>
-#include <list>
+#include <stack>
+#include <queue>
 
 int main()
 {
 
-#pragma region 선형 컨테이너
-	// 데이터를 선형으로 저장하며, 특별한 제약이나 규칙이 없는  컨테이너입니다.
+#pragma region 컨테이너 어댑터
+	// 기존 컨테이너의 인터페이스를 제한하여 만든 기능이
+	// 제한되거나 변경된 컨테이너입니다.
 
-#pragma region vector container
+#pragma region stack container
 
-	/*vector<int> vector;
+	/*stack<int> stack;
 
-	vector.reserve(8);
+	stack.push(10);
+	stack.push(20);
+	stack.push(30);
 
-	vector.push_back(10);
-	vector.push_back(20);
-	vector.push_back(30);
-	vector.push_back(40);
-	vector.push_back(50);
+	while (!stack.empty()) {
+		cout << stack.top() << endl;
+		stack.pop();
+	}*/
 
-	vector.pop_back();
+#pragma endregion
 
-	for (int i = 0; i < vector.size(); i++) {
-		cout << "result : " << vector[i] << endl;
+#pragma region Queue container
+
+	queue<int> queue;
+
+	// for문을 이용해서 처리
+	queue.push(10);
+	queue.push(20);
+	queue.push(30);
+	queue.push(40);
+
+	int size = queue.size();
+
+	for (int i = 0; i < size; i++) {
+
+		cout << queue.front() << endl;
+		queue.pop();
 	}
-
-	vector.clear();
-
-	cout << "vector의 size 값 : " << vector.size() << endl;
-
-	cout << "vector의 capacity 값 : " << vector.capacity() << endl;*/
+	
 
 #pragma endregion
 
-#pragma region list container
-
-	list<int> list;
-
-	list.push_back(10);
-	list.push_back(20);
-	list.push_back(30);
-	list.push_back(40);
-	list.push_back(50);
-
-	list.pop_front();
-	list.push_front(5);
-
-	list.remove(30);
-
-	// 범위 기반 for문
-	for (const int i : list) {
-		cout << i << endl;
-	}
-
 #pragma endregion
 
-
-#pragma endregion
 
 	return 0;
 }
